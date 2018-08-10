@@ -5,3 +5,9 @@
 ## Data visualisation with decision boundary ----
 
 ### Training set
+
+![knn-trainingset](https://user-images.githubusercontent.com/40026126/43974824-53c97a88-9cf9-11e8-9854-e75e2e57846f.PNG)
+
+
+### Testing set
+![knn-testingset](https://user-images.githubusercontent.com/40026126/43974831-58649834-9cf9-11e8-9cc1-a352cd9c386c.PNG)
